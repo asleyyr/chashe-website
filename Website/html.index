@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="en">
+<meta name="viewsport" content="width=device-width initial-scale="1.0">
+<title>All about Chase Atlantic</title>
+
+
+<body>
+
+<section class="hero">
+<div class="hero-text">
+<h1>Chase Atlantic</h1>
+<p>Chase Atlantic is an Australian band formed in 2014, known for blending contemporary R&B</p>
+<p>with alternative pop and rock elements. The group consists of three core members:</p>
+<p>Mitchel Cave, Clinton Cave, and Christian Anthony.</p>
+</div>
+</section>
+
+<section class="cards">
+<h2>Meet The Members!</h2>
+<div class="cards-text">
+<img src="MitchelCave.jpg" alt="Mitchel Cave">
+<h3>Mitchel Cave</h3>
+<p>Lead vocalist and programmer, born on December 2, 1996, making him 28 years old as of 2025. Before forming Chase Atlantic, Mitchel was part of the boy band What About Tonight, which competed in the 2012 season of The X Factor Australia. </p>
+</div>
+
+<div class="card">
+<img src="ChristianAnthony.jpg" alt="Christian Anthony">
+<h3>Christian Anthony</h3>
+<p>Rhythm guitarist, lead vocalist, and programmer, born on September 3, 1997. He also participated in The X Factor Australia in 2012.</p>
+</div>
+
+<div class="card">
+<img src="ClintonCave.jpg" alt="Clinton Cave">
+<h3>Clinton Cave</h3>
+<p>Lead guitarist, tenor saxophonist, and backing vocalist, born on July 4, 1993. He first gained recognition through his YouTube music covers.</p>
+</div>
+</div>
+</section>
+
+</body>
+</head>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="en">
+<meta name="viewsport" content="width=device-width initial-scale="1.0">
+<title>All about Chase Atlantic</title>
+
+<body>
+
+<section class="hero">
+<div class="hero-text">
+<h1 align="center">Chase Atlantic</h1>
+<p align="center">Chase Atlantic is an Australian band formed in 2014, known for blending contemporary R&B</p>
+<p align="center">with alternative pop and rock elements. The group consists of three core members:</p>
+<p align="center">Mitchel Cave, Clinton Cave, and Christian Anthony.</p>
+</div>
+</section>
+
+<hr>
+
+<section class="cards">
+<h2 align="center">Meet The Members!</h2>
+<div class="cards-text">
+<img src="MitchelCave.jpg" alt="Mitchel Cave">
+<h3 align="center">Mitchel Cave</h3>
+<p align="center">Lead vocalist and programmer, born on December 2, 1996, making him 28 years old as of 2025. Before forming Chase Atlantic, Mitchel was part of the boy band What About Tonight, which competed in the 2012 season of The X Factor Australia. </p>
+</div>
+
+<div>
+<img src="ChristianAnthony.jpg" alt="Christian Anthony">
+<h3 align="center">Christian Anthony</h3>
+<p align="center">Rhythm guitarist, lead vocalist, and programmer, born on September 3, 1997, making him 27 years 
+old as of 2025. Christian also participated in The X Factor Australia in 2012 alongside Mitchel Cave. 
+</p>
+</div>
+
+<div>
+<img src="ClintonCave.jpg" alt="Clinton Cave">
+<h3 align="center">Clinton Cave</h3>
+<p align="center">Lead guitarist, tenor saxophonist, backing vocalist, and programmer, born on July 4, 1993, making him 31 years old as of 2025. Clinton initially gained recognition through his YouTube channel, where he posted music covers and original content.</p>
+</div>
+</div>
+</section>
+
+<hr>
+
+<section class="about">
+<div class="about-part">
+<img src="ChaseProfile.jpg" alt="Chaste Atlantic Band">
+<div class="about-text">
+<h1 align="center">About Chase Atlantic</h1>
+<p align="center">Formed in Cairns, Australia, Chase Atlantic has developed a distinctive sound that blends dark alternative pop with elements of rock and R&B. </p>
+<p align="center">Over the years, they've evolved from their initial pop-rock beginnings to a more mature, alternative R&B style. Their influences include</p>
+<p align="center">artists like Tame Impala, The Weeknd, The 1975, and The Neighbourhood. The band has gained a dedicated fanbase through their dynamic music and engaging live performances.</p>
+</div>
+</div>
+</section>
+
+</body>
+</head>
+</html>
